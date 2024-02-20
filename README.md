@@ -1,4 +1,4 @@
-### Добро пожаловать! Меня зовут Светлана. 👋 <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 
 <div id="badges">
    <a href="https://t.me/whoa_1ana">
@@ -8,7 +8,10 @@
    <a href="https://komarev.com/ghpvc/?username=kurgulana">
      <img src="https://komarev.com/ghpvc/?username=kurgulana"&style=flat-square&color=blue" alt=""/>
 </div>
-
+<h1>
+ ### Добро пожаловать! Меня зовут Светлана. 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ###  ⚡ Я буду полезна вашей компании в:
 • Ручном тестировании с применением техник тест-дизайна;
