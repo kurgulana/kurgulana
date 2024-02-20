@@ -8,6 +8,7 @@
    <a href="https://komarev.com/ghpvc/?username=kurgulana">
      <img src="https://komarev.com/ghpvc/?username=kurgulana"&style=flat-square&color=blue" alt=""/>
 </div>
+      
 <h1>
  Добро пожаловать! Меня зовут Светлана. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -16,14 +17,14 @@
 ---
 
 ### :woman_technologist: About Me : Я буду полезна вашей компании в:
-<br>:point_right:Ручном тестировании с применением техник тест-дизайна;
-<br> :point_right: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
-<br> :point_right: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
-<br> :point_right: Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
-<br> :point_right: Тестировании API(Работа в Postman, SoapUI);
-<br> :point_right: UI/UX тестрование веб-сайтов;
-<br> :point_right: Работа в DevTools;
-<br>:point_right:Работа с Git на базовом уровне;
+<br>	:pen: Ручном тестировании с применением техник тест-дизайна;
+<br> 	:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
+<br> 	:pen: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
+<br> 	:pen:  Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
+<br> 	:pen:  Тестировании API(Работа в Postman, SoapUI);
+<br> 	:pen:  UI/UX тестрование веб-сайтов;
+<br> 	:pen:  Работа в DevTools;
+<br> 	:pen: Работа с Git на базовом уровне;
 
 ---
 
