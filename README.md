@@ -1,5 +1,6 @@
-### Hi there 👋 <img src="https://avatars.mds.yandex.net/i?id=70faa93a7c8843d9447006223a5c34f8751227ed-10176094-images-thumbs&n=13" alt="The Unlimited" width="180"/>
-
+### Добро пожаловать! Меня зовут Светлана. 👋<div id="header" align="center">
+<iframe src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
+</div>
 <!--
 **kurgulana/kurgulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
