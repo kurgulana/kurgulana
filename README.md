@@ -4,9 +4,11 @@
    <a href="https://t.me/whoa_1ana">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
+<div>
+  <a href="https://komarev.com/ghpvc/?username=kurgulana">
+     <img src="https://komarev.com/ghpvc/?username=kurgulana"&style=flat-square&color=blue" alt=""/>
+   </div>
 
-<div id="header" align="center">
-</div>
 ###  ⚡ Я буду полезна вашей компании в:
 • Ручном тестировании с применением техник тест-дизайна;
 • Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
