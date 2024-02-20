@@ -1,4 +1,8 @@
-### Добро пожаловать! Меня зовут Светлана. 👋 <img src="https://media1.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gifcid=ecf05e47u2ibl694gar9h1fstei2mm1w2dawn2hgyxu0qpaq&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width="100"/>
+### Добро пожаловать! Меня зовут Светлана. 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
 
 <!--
 **kurgulana/kurgulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
