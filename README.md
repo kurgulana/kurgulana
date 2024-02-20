@@ -16,15 +16,14 @@
 ---
 
 ### :woman_technologist: About Me : Я буду полезна вашей компании в:
-
-<br>• :point_right:Ручном тестировании с применением техник тест-дизайна;
-<br>• Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
-<br>• Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
-<br>• Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
-<br>• Тестировании API(Работа в Postman, SoapUI);
-<br>• UI/UX тестрование веб-сайтов;
-<br>• Работа в DevTools;
-<br>• Работа с Git на базовом уровне;
+<br>:point_right:Ручном тестировании с применением техник тест-дизайна;
+<br> :point_right: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
+<br> :point_right: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
+<br> :point_right: Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
+<br> :point_right: Тестировании API(Работа в Postman, SoapUI);
+<br> :point_right: UI/UX тестрование веб-сайтов;
+<br> :point_right: Работа в DevTools;
+<br>:point_right:Работа с Git на базовом уровне;
 
 ---
 
