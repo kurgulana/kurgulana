@@ -17,15 +17,16 @@
 ---
 
 ### :woman_technologist: About Me : Я буду полезна вашей компании в:
-< div align="left"> :pen: Ручном тестировании с применением техник тест-дизайна;
-< div align="left">  align="badges">	:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
-<div id="badges">	:pen: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
-<div id="badges"> :pen:  Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
-<div id="badges">	:pen:  Тестировании API(Работа в Postman, SoapUI);
-<div id="badges"> 	:pen:  UI/UX тестрование веб-сайтов;
-<div id="badges">	:pen:  Работа в DevTools;
-<div id="badges"> 	:pen: Работа с Git на базовом уровне;
-
+<div align="center">
+ :pen: Ручном тестировании с применением техник тест-дизайна;
+  align="badges">	:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
+	:pen: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
+ :pen:  Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
+:pen:  Тестировании API(Работа в Postman, SoapUI);
+	:pen:  UI/UX тестрование веб-сайтов;
+:pen:  Работа в DevTools;
+	:pen: Работа с Git на базовом уровне;
+</div>
 ---
 
 ###  ⚡ Обо мне
