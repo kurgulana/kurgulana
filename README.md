@@ -53,7 +53,7 @@
  ### 🤔 Опыт работы
  <div align="left">
 <br> :briefcase: Должность: ручной тестировщик  <a href="https://str-mobile.ru/"> веб-сайта оптовой продажи электроники </a>
-<br>	:brown_circle: Составяла и актуализировала чек-лист в Miro <a href="https://miro.com/welcomeonboard/dG9MNXJxbXJrODRzbFpCN00xaEFhdEM4ODdiMmlsU3pxM0xvYzZNaGF1RnRxc21hNktlYm1lWFhORERObWJkenwzNDU4NzY0NTE0MDM1MjE3MTkyfDI=?share_link_id=955550036939"> Miro </a>
+<br>	:brown_circle: Составяла и актуализировала чек-лист в  <a href="https://miro.com/app/board/uXjVNqmMPO8=/?share_link_id=375898136818"> Miro </a>
 <br> 	:brown_circle: Составляла баг-репорты в ClickUp
 <br> 	:brown_circle: Отвечала за десктопную и мобильную версию в основных браузерах - Google Chrome, Opera, FireFox, Edge
 <br> 	:brown_circle: Проводила функциональное тестирование и проверяла на соответсвие дизайну в Figma
