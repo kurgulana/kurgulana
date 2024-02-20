@@ -61,7 +61,9 @@
 <br> 	:brown_circle: Результаты передавала проджекту и разработчику на созвоне Google Meet
 </div>
 
+<div align="center">
 💬
+   </div>
 <h1>
 Спасибо, что ознакомились! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif" width="50px"/>
