@@ -17,8 +17,8 @@
 ---
 
 ### :woman_technologist: About Me : Я буду полезна вашей компании в:
-<div id="badges">	:pen: Ручном тестировании с применением техник тест-дизайна;
-<div id="badges"> 	:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
+<div id="header" align="badges">	:pen: Ручном тестировании с применением техник тест-дизайна;
+<div id="header" align="badges">	:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
 <div id="badges">	:pen: Составлении баг репортов в баг-трекинговых системах (Jira, ClickUp);
 <div id="badges"> :pen:  Использовании запросов БД SQL (SELECT, INSERT, UPDATE, JOIN, DELETE);
 <div id="badges">	:pen:  Тестировании API(Работа в Postman, SoapUI);
