@@ -1,8 +1,9 @@
 <div id="header" align="center"> <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
-
 <div id="badges" align="center">
    <a href="https://t.me/whoa_1ana">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>  
+       <a href="mailto:kurgulovas@gmail.com"">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
 </div>
       <div>
    <a href="https://komarev.com/ghpvc/?username=kurgulana">
@@ -16,7 +17,7 @@
 
 ---
 
-### :woman_technologist: About Me : Я буду полезна вашей компании в:
+### :woman_technologist:  Я буду полезна вашей компании в:
 <div align="left">
 <br>:pen: Ручном тестировании с применением техник тест-дизайна;
 <br>:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
