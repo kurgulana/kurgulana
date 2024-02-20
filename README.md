@@ -1,13 +1,13 @@
-### Добро пожаловать! Меня зовут Светлана. 👋<div id="header" align="center">
+### Добро пожаловать! Меня зовут Светлана. 👋
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
-</div>
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 
-
-
+<div id="header" align="center">
+</div>
 ###  ⚡ Я буду полезна вашей компании в:
 • Ручном тестировании с применением техник тест-дизайна;
 • Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
