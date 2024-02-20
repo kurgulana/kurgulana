@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="[https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png](https://avatars.mds.yandex.net/i?id=70faa93a7c8843d9447006223a5c34f8751227ed-10176094-images-thumbs&n=13)" alt="The Unlimited" width="180"/>
+### Hi there 👋 <img src="https://avatars.mds.yandex.net/i?id=70faa93a7c8843d9447006223a5c34f8751227ed-10176094-images-thumbs&n=13" alt="The Unlimited" width="180"/>
 
 <!--
 **kurgulana/kurgulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
