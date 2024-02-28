@@ -56,7 +56,7 @@
 <br>	:brown_circle: Составляла и актуализировала чек-лист в  <a href="https://miro.com/app/board/uXjVNqmMPO8=/?share_link_id=375898136818"> Miro </a>
 <br> 	:brown_circle: Составляла баг-репорты в ClickUp
 <br> 	:brown_circle: Отвечала за десктопную и мобильную версию в основных браузерах - Google Chrome, Opera, FireFox, Edge
-<br> 	:brown_circle: Проводила функциональное тестирование и проверяла на соответсвие дизайну в Figma
+<br> 	:brown_circle: Проводила функциональное тестирование и проверяла на соответствие дизайну в Figma
 <br> 	:brown_circle: Всего было составлено 80 баг-репортов, из которых 1 blocker + составлено 16 рекомендация для улучшения UX/UI. <a href="https://docs.google.com/document/d/1OKGu4jmNvaZweefVhEPWV9XmCg-KDNvgNal4l1dvBbI/edit?usp=sharing"> Примеры баг-репортов  </a> 
 <br> 	:brown_circle: Результаты передавала проджекту и разработчику на созвоне Google Meet
 </div>
