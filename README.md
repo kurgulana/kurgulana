@@ -33,6 +33,23 @@
 
 ---
 
+ ### 🤔 Опыт работы
+ <div align="left">
+<br> :briefcase: Должность: ручной тестировщик  <a href="https://str-mobile.ru/"> веб-сайта оптовой продажи электроники </a>
+<br>	:brown_circle: Составляла и актуализировала чек-лист в  <a href="https://miro.com/app/board/uXjVNqmMPO8=/?share_link_id=375898136818"> Miro </a> и для примера  <a href= "https://docs.google.com/document/d/1xqbJx2A00msBbMOt6RuvHdZn6KPxWnN5YkJtsVE7HAc/edit?usp=sharing" >чек-лист в гугл-документах</a>
+<br> 	:brown_circle: Составляла баг-репорты в ClickUp
+<br> 	:brown_circle: Отвечала за десктопную и мобильную версию в основных браузерах - Google Chrome, Opera, FireFox, Edge
+<br> 	:brown_circle: Проводила функциональное тестирование и проверяла на соответствие дизайну в Figma
+<br> 	:brown_circle: Всего было составлено 80 баг-репортов, из которых 1 blocker + составлено 16 рекомендация для улучшения UX/UI. <a href="https://docs.google.com/document/d/1OKGu4jmNvaZweefVhEPWV9XmCg-KDNvgNal4l1dvBbI/edit?usp=sharing"> Примеры баг-репортов  </a> 
+<br> 	:brown_circle: Результаты передавала проджекту и разработчику на созвоне Google Meet
+</div>
+<br>
+<div align="center">
+💬
+   </div>
+
+---
+
 ###  ⚡ Обо мне
 <div align="left">
 <br>🔭 Hard Skill
@@ -47,23 +64,7 @@
 <br> :round_pushpin: Хорошо обучаюсь при наличии соответствующей документации, умею работать в команде. Адекватно реагирую на критику. Внимательна к деталям, усидчивая и спокойная.
 <br> :round_pushpin: Большое желание учиться у людей, которые уже имеют коммерческий опыт работы.
 </div>
-
----
-
- ### 🤔 Опыт работы
- <div align="left">
-<br> :briefcase: Должность: ручной тестировщик  <a href="https://str-mobile.ru/"> веб-сайта оптовой продажи электроники </a>
-<br>	:brown_circle: Составляла и актуализировала чек-лист в  <a href="https://miro.com/app/board/uXjVNqmMPO8=/?share_link_id=375898136818"> Miro </a>
-<br> 	:brown_circle: Составляла баг-репорты в ClickUp
-<br> 	:brown_circle: Отвечала за десктопную и мобильную версию в основных браузерах - Google Chrome, Opera, FireFox, Edge
-<br> 	:brown_circle: Проводила функциональное тестирование и проверяла на соответствие дизайну в Figma
-<br> 	:brown_circle: Всего было составлено 80 баг-репортов, из которых 1 blocker + составлено 16 рекомендация для улучшения UX/UI. <a href="https://docs.google.com/document/d/1OKGu4jmNvaZweefVhEPWV9XmCg-KDNvgNal4l1dvBbI/edit?usp=sharing"> Примеры баг-репортов  </a> 
-<br> 	:brown_circle: Результаты передавала проджекту и разработчику на созвоне Google Meet
-</div>
-<br>
-<div align="center">
-💬
-   </div>
+   
 <h1>
 Спасибо, что ознакомились! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif" width="50px"/>
