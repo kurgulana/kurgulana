@@ -45,7 +45,7 @@
 </div>
 <br>
 <div align="center">
-💬
+
    </div>
 
 ---
@@ -64,7 +64,8 @@
 <br> :round_pushpin: Хорошо обучаюсь при наличии соответствующей документации, умею работать в команде. Адекватно реагирую на критику. Внимательна к деталям, усидчивая и спокойная.
 <br> :round_pushpin: Большое желание учиться у людей, которые уже имеют коммерческий опыт работы.
 </div>
-   
+
+   💬
 <h1>
 Спасибо, что ознакомились! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif" width="50px"/>
