@@ -67,7 +67,7 @@
 
 
 
-![Сертификаты] (https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg)
+<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg">
 
    💬
 <h1>
