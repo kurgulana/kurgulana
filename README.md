@@ -75,19 +75,18 @@
 
 <br>:framed_picture: Мои сертификаты и пройденные курсы 
 
-:pen: <p>Postman</p>
+ <p>Postman</p>
 <img class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
 
-:pen: <p> Jira</p>
+<p> Jira</p>
 <img class = "Jira">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
-	
-:pen: <p>Основы QA</p>
+ <p>Основы QA</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
 	
-:pen:  <p>SQL</p>
+ <p>SQL</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
 	
