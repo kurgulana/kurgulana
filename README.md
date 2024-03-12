@@ -67,7 +67,7 @@
 
 
 
-<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg">
+<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" border=”25px”>
 
    💬
 <h1>
