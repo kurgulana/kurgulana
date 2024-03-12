@@ -75,10 +75,16 @@
 
 <br>🌱 Мои сертификаты и пройденные курсы 
 
-<br><img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
-<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px"/>
-<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg"width="400px"/>
-<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg"width="400px"/>
+<div class = "Postman">
+	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
+	<p>Postman</p>
+</div>
+
+
+</div><img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
+
+<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
+<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
 
 
 
