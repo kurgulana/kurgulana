@@ -80,11 +80,22 @@
 	<p>Postman</p>
 </div>
 
+<div class = "Jira">
+	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
+	<p>Jira</p>
+</div>
 
-</div><img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
+<div class = "Основы QA">
+	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
+	<p>Основы QA</p>
+</div>
 
-<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
-<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
+<div class = "Основы QA">
+	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
+	<p>SQL</p>
+</div>
+
+
 
 
 
