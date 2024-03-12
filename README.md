@@ -68,26 +68,26 @@
 <div align="left">
 <br>:nerd_face: Изученные книги
 
-<br>:pen: <br>«Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах», Роман Савин
-<br>:pen: «Тестирование программного обеспечения. Базовый курс», Святослав Куликов
-<br>:pen: «Тестирование программного обеспечения. Фундаментальные концепции менеджмента бизнес-приложений», С. Канер, Д. Фолк, Е.К. Нгуен
-<br>:pen: QA Bible 2.0
+<br> :round_pushpin: <br>«Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах», Роман Савин
+<br> :round_pushpin:«Тестирование программного обеспечения. Базовый курс», Святослав Куликов
+<br> :round_pushpin:: «Тестирование программного обеспечения. Фундаментальные концепции менеджмента бизнес-приложений», С. Канер, Д. Фолк, Е.К. Нгуен
+<br> :round_pushpin: QA Bible 2.0
 
-<br>	:star_struck: Мои сертификаты и пройденные курсы 
+<br>:framed_picture: Мои сертификаты и пройденные курсы 
 
-<br>:pen: <p>Postman</p>
+:pen: <p>Postman</p>
 <img class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
 
-<br>:pen: <p> Jira</p>
+:pen: <p> Jira</p>
 <img class = "Jira">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
 	
-<br>:pen: <p>Основы QA</p>
+:pen: <p>Основы QA</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
 	
-<br>:pen:  <p>SQL</p>
+:pen:  <p>SQL</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
 	
