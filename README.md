@@ -75,40 +75,23 @@
 
 <br>🌱 Мои сертификаты и пройденные курсы 
 
-**<div class="features-block">
-  <div class="image">
-    <span>
-       <img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" alt="Postnam" width="400px" >
-        <p>text</p>
-    </span>
-    <span>
-        <img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" alt="Jira" width="400px"/>
-        <p>text</p>
-    </span>
-    <span>
-       <img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" alt="QA" width="400px"/>
-        <p>text text</p>
-    </span>
-  </div>
-</div>**
 
+<div>
 
-
-<p class = "Postman">
+<img class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
 	<p>Postman</p>
 
-<p class = "Jira">
+<img class = "Jira">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
 	<p>Jira</p>
 </p>
 
-<div class = "Основы QA">
+<img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
 	<p>Основы QA</p>
-</div>
 
-<div class = "Основы QA">
+<img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
 	<p>SQL</p>
 </div>
@@ -117,7 +100,7 @@
 
 
 
-</div>
+
    💬
 <h1>
 Спасибо, что ознакомились! 
