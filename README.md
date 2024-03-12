@@ -74,6 +74,15 @@
 <br>QA Bible 2.0
 
 <br>🌱 Мои сертификаты и пройденные курсы 
+  <p
+	  <img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" alt="Postman" width="400px">
+   <img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" alt= "jira" width="400px"/>
+	  
+
+  </p>
+
+
+
 
 <p class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
