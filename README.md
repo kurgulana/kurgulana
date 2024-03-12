@@ -80,20 +80,19 @@
 <p>Postman</p>
 <img class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
-	
 
+ <p>Jira</p>
 <img class = "Jira">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
-	<p>Jira</p>
-</p>
-
+	
+<p>Основы QA</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
-	<p>Основы QA</p>
-
+	
+ <p>SQL</p>
 <img class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
-	<p>SQL</p>
+	
 </div>
 
 
