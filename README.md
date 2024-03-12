@@ -67,7 +67,7 @@
 
 
 
-<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" border=”25px”>
+<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" srcset="img/low.jpg 320w, img/low-mid.jpg 480w, img/low-full.jpg 768w" sizes="(max-width: 800px) 500px, (min-width: 800px) 800px">
 
    💬
 <h1>
