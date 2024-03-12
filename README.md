@@ -75,14 +75,14 @@
 
 <br>🌱 Мои сертификаты и пройденные курсы 
 
-<div class = "Postman">
+<p class = "Postman">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
 	<p>Postman</p>
 
-<div class = "Jira">
+<p class = "Jira">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
 	<p>Jira</p>
-</div>
+</p>
 
 <div class = "Основы QA">
 	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
