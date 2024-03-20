@@ -12,7 +12,7 @@
  Добро пожаловать! Меня зовут Светлана <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
+
 
 🙋‍♀️ <b> Я буду полезна вашей компании в: </b>
 <div align="left">
@@ -26,7 +26,7 @@
 <br>:pen: Работа с Git на базовом уровне;
 </div>
 
----
+
 
 <b> 🤔 Опыт работы </b>
  <div align="left">
@@ -43,7 +43,7 @@
 
    </div>
 
----
+
 
 <b>⚡ Обо мне </b>
 <div align="left">
@@ -71,6 +71,8 @@
 <br>:framed_picture: <b>Мои сертификаты и пройденные курсы</b>
 
  <p>Postman</p>
+[Postman]("https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg)
+ 
 <img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px"/>
 
 <p> Jira</p> 
