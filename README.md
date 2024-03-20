@@ -2,8 +2,7 @@
 <div id="badges" align="center">
    <a href="https://t.me/whoa_1ana">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>  
-       <a href="mailto:kurgulovas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
+
             <a href="https://wa.me/89232559021?">
   <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/> 
 </div>
