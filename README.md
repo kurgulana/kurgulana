@@ -14,7 +14,7 @@
 
 ---
 
-### :raising_hand: Я буду полезна вашей компании в:
+### 🙋‍♀️ Я буду полезна вашей компании в:
 <div align="left">
 <br>:pen: Ручном тестировании с применением техник тест-дизайна;
 <br>:pen: Cоставлении чек-листов, тест-кейсов, кейсов использования (use cases);
@@ -71,19 +71,15 @@
 <br>:framed_picture: Мои сертификаты и пройденные курсы 
 
  <p>Postman</p>
-<img class = "Postman">
-	<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px">
+<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px"/>
 
-<p> Jira</p>
-<img class = "Jira">
-	<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
+<p> Jira</p> 
+<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
  <p>Основы QA</p>
-<img class = "Основы QA">
-	<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
+<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
 	
- <p>SQL</p>
-<img class = "Основы QA">
-	<img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
+ <p>SQL</p> 
+ <img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
 	
 </div>
 
