@@ -71,7 +71,7 @@
 <br>:framed_picture: <b>Мои сертификаты и пройденные курсы</b>
 
  <p>Postman</p>
-[Postman]("https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg)
+![alt text](https://raw.githubusercontent.com/kurgulana/kurgulana/main/postman_page-0001.jpg)
  
 <img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px"/>
 
