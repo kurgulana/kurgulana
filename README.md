@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
             <a href="https://wa.me/89232559021?">
   <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/> 
-</div>
-     
+
       
 <h1>
  Добро пожаловать! Меня зовут Светлана. 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </h1>
 
 ---
