@@ -1,62 +1,47 @@
-<div id="header" align="center"> <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
-<div id="badges" align="center">
-	
-   <a href="https://t.me/whoa_1ana">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>  </a>
-       <a href="mailto:kurgulovas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> </a>
-            <a href="https://wa.me/89232559021">
-  <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/> </a>
+# QA Engineer Experience
 
-<h1>
- Добро пожаловать! Меня зовут Светлана <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## Mobile Application Testing — TouthCaching App
+**Role:** QA Engineer (Sole Tester)
 
+Served as the only QA specialist on this mobile project, taking full ownership of the testing process from start to finish for both iOS and Android platforms. Responsibilities included:
 
+- Handling end-to-end quality assurance independently, without a dedicated QA team, for a cross-platform mobile app.
+- Debugging and verifying builds using Xcode and Android Studio.
+- Running hands-on tests on physical devices to catch real-world issues that simulators and emulators typically miss.
+- Creating test scenarios, logging defects, and following up until each issue was resolved.
+- Making sure the app performed reliably across different devices, screen sizes, and OS versions before each release.
 
+---
 
-   </div>
+## Web Testing & Automation — RallyUp.com
+**Role:** QA Engineer (Team Collaboration)
 
+Worked as part of a larger team to test and improve the quality of the RallyUp.com web platform, combining manual checks with automated scripts. Key contributions:
 
+- Building and maintaining automated test suites with **Playwright** in **JavaScript**, targeting critical user journeys and regression checks.
+- Reviewing the interface for usability and visual consistency across multiple browsers and screen resolutions.
+- Putting together clear, structured test cases and test plans derived from product requirements and user stories.
+- Reporting and tracking bugs in close coordination with developers and product managers to speed up fixes.
+- Taking part in team rituals — sprint planning, daily stand-ups, and review sessions — to stay aligned with the team's quality standards and release timelines.
 
-<b>⚡ Обо мне </b>
-<div align="left">
-<br>🔭 Hard Skill
-<br> :round_pushpin:Знания жизненного цикла ПО, моделей разработки, и процессов ПО: Agile / Scrum / Kanban
-<br> :round_pushpin:Знание основ, принципов и методов тестирования
-<br> :round_pushpin:  Знание основ HTML, CSS, Figma, DevTools
-<br> :round_pushpin: Знание общих принципов построение СУБД и языка SQL
-<br> :round_pushpin: Уверенный пользователь ПК (могу установить виндоус, скачать симс со всеми дополнениями)
-<br> :round_pushpin: По железу - понимание основ сборки ПК: могу прочистить, разобрать, собрать обратно. <a href="https://youtube.com/shorts/oFjAenYMlZ4?si=5dxo_paS8cZg34Ss"> Видео моей обработки и съемки сборки ПК  </a>
+---
 
-<br>🌱 Soft Skill
-<br> :round_pushpin: Хорошо обучаюсь при наличии соответствующей документации, умею работать в команде. Адекватно реагирую на критику. Внимательна к деталям, усидчивая и спокойная.
-<br> :round_pushpin: Большое желание учиться у людей, которые уже имеют коммерческий опыт работы.
-</div>
+## QA Testing — Promas
+**Role:** QA Tester (Sole Tester)
 
-<div align="left">
-<br>:nerd_face: <b> Изученные книги </b>
+Contributed to the quality assurance process at Promas as part of an agile development team, blending manual testing with automated tools. Duties covered:
 
-<br> :round_pushpin:«Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах», Роман Савин
-<br> :round_pushpin:«Тестирование программного обеспечения. Базовый курс», Святослав Куликов
-<br> :round_pushpin:«Тестирование программного обеспечения. Фундаментальные концепции менеджмента бизнес-приложений», С. Канер, Д. Фолк, Е.К. Нгуен
-<br> :round_pushpin: QA Bible 2.0
+- Designing and running test cases across functional, regression, and smoke testing categories.
+- Automating mobile and web test flows using **Appium** and **WebdriverIO**, cutting down repetitive manual work and boosting coverage.
+- Logging and following up on bugs alongside the development team to confirm fixes and avoid repeat issues.
+- Contributing QA perspective during sprint planning and stand-ups, including reviewing user stories and acceptance criteria.
+- Keeping test documentation (test plans, cases, and bug reports) organized and up to date for team-wide consistency.
 
-<br>:framed_picture: <b>Мои сертификаты и пройденные курсы</b>
+---
 
- <p>Postman</p>
+## Summary
 
-<img src="https://github.com/kurgulana/kurgulana/blob/main/postman_page-0001.jpg" width="400px"/>
-
-<p> Jira</p> 
-<img src="https://github.com/kurgulana/kurgulana/blob/main/jira_page-0001.jpg" width="400px"/>
- <p>Основы QA</p>
-<img src="https://github.com/kurgulana/kurgulana/blob/main/qa_page-0001.jpg" width="400px"/>
-	
- <p>SQL</p> 
- <img src="https://github.com/kurgulana/kurgulana/blob/main/sql_page-0001.jpg" width="400px"/>
-	
-</div>
+Across these roles, I've worked both **independently as a sole QA engineer**, owning the entire testing process for a project from scratch, and **collaboratively within cross-functional teams**, contributing to shared automation frameworks and QA processes. This mix has given me experience in manual and automated testing, mobile and web platforms, and tools including Xcode, Android Studio, Playwright, Appium, and WebdriverIO.
 
 
 
@@ -65,6 +50,6 @@
 
    💬
 <h1>
-Спасибо, что ознакомились! 
+Thanks! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ6MTB3dmdwN2EzbHlnejQxOGx5aWxtN3ZoNnhxdmJ5cXVldThpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEf7gXqvQ8B3SWnUid/giphy.gif" width="50px"/>
 </h1>
