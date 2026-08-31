@@ -1,6 +1,6 @@
 # QA Engineer Experience
 
-## Mobile Application Testing — TouthCaching App
+## Mobile Application Testing — TruthCaching App
 **Role:** QA Engineer (Sole Tester)
 
 Served as the only QA specialist on this mobile project, taking full ownership of the testing process from start to finish for both iOS and Android platforms. Responsibilities included:
